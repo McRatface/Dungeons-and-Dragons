@@ -1,53 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>D&D Player Portal</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 20px;
-            color: #6d2a00;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            margin-bottom: 20px;
-        }
-        nav a {
-            text-decoration: none;
-            margin: 0 10px;
-            padding: 5px 10px;
-            border: 1px solid #6d2a00;
-            border-radius: 5px;
-            color: #6d2a00;
-            transition: background-color 0.3s ease;
-        }
-        nav a:hover {
-            background-color: #6d2a00;
-            color: #fff;
-        }
-        main {
-            text-align: center;
-        }
-        section {
-            background-color: #fff;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h2 {
-            color: #6d2a00;
-        }
-    </style>
+    <!-- ... (styles and other metadata) ... -->
 </head>
 <body>
     <header>
@@ -62,7 +16,11 @@
     <main>
         <section id="characters">
             <h2>Player Characters</h2>
-            <!-- Add information about player characters, character sheets, etc. -->
+            <ul>
+                <li><a href="#character1">Character 1</a></li>
+                <li><a href="#character2">Character 2</a></li>
+                <!-- Add more characters as needed -->
+            </ul>
         </section>
         <section id="campaign">
             <h2>Campaign Details</h2>
