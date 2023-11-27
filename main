@@ -28,7 +28,16 @@
         </section>
         <section id="resources">
             <h2>Useful Resources</h2>
-            <!-- Links to D&D rulebooks, helpful websites, etc. -->
+            <section id="character1">
+    <h2>Character 1</h2>
+    <p>Description of Character 1...</p>
+</section>
+<section id="character2">
+    <h2>Character 2</h2>
+    <p>Description of Character 2...</p>
+</section>
+<!-- Add more character sections as needed -->
+
         </section>
         <!-- You can add more sections as needed -->
     </main>
