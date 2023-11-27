@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Head content remains the same -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to the D&D Player Portal</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="characters.html">Characters</a>
+        <a href="campaign.html">Campaign</a>
+        <a href="resources.html">Resources</a>
+        <!-- Add more links as needed -->
+    </nav>
+    <main>
+        <section id="characters">
+            <h2>Player Characters</h2>
+            <!-- Add information about player characters, character sheets, etc. -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 YourName. All rights reserved.</p>
+    </footer>
+</body>
+</html>
